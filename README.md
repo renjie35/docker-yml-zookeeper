@@ -1,4 +1,4 @@
-# <center/>Zookeeper
+# Zookeeper
 
 ## 一.安装
 ```
